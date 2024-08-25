@@ -1,0 +1,104 @@
+
+body{
+    background-color: aquamarine;
+}
+
+
+.header{
+background-color: blueviolet;   
+color: white;
+border-radius: 15px;
+font-style: italic;
+}
+
+.box{
+border-color: brown;
+border-width: 3px;
+border-style: solid;
+display: inline-block;
+width: 320px;
+height: 300px;
+background-color: white;
+border-radius: 10%;
+padding: 5px;
+margin: 5px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: oblique;
+margin-bottom: 15px;
+
+
+
+
+}
+
+.main{
+    text-align: justify;
+    
+    
+   
+}
+
+h3{
+    text-align: center;
+}
+
+.our{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+    display: inline;
+    color: white;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 15px;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+
+  
+
+
+.title{
+    padding: 10px;
+    background-color: blueviolet;
+    padding: 10px;
+    display: inline;
+    border-radius: 10px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-style: oblique;
+    
+    
+}
+.inception{
+border-color: brown;
+border-width: 4px;
+border-style: solid;
+width: 950px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border-radius: 20px;
+margin: 5px;
+background-color: white;
+text-align: justify;
+font-size: 22px;
+font-style: italic;
+padding-right: 4px;
+
+
+
+}
+
+.missionimage{
+    width: 85px;
+}
+.logo{
+    width: 250px;
+    height: 297px;
+    float: left;
+   padding-right: 6px;
+   border-radius: 18px;
+   border-color: black;
+   border-style: solid;
+    
+}
